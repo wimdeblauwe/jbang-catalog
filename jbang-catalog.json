@@ -1,7 +1,7 @@
 {
   "aliases" : {
     "ttcli" : {
-      "script-ref" : "ttcli.java",
+      "script-ref" : "https://github.com/wimdeblauwe/ttcli/releases/download/1.12.3/",
       "description" : "CLI interface to make working with Thymeleaf projects easier"
     }
   }
