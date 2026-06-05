@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "ttcli": {
-      "script-ref": "ttcli.java",
-      "description": "CLI interface to make working with Thymeleaf projects easier"
+  "aliases" : {
+    "ttcli" : {
+      "script-ref" : "ttcli.java",
+      "description" : "CLI interface to make working with Thymeleaf projects easier"
     }
   }
 }
